@@ -50,6 +50,8 @@ For each query, output "YES" if the sum of the entire array becomes odd, and "NO
 You can output the answer in any case (upper or lower). For example, the strings "yEs", "yes", "Yes", and "YES" will be recognized as positive responses.
 
 
+![Photo](assets/img/Screenshot 2023-04-13 121823.png)
+
 ### Input :
 ```yaml
 2
