@@ -1,5 +1,7 @@
-## Codeforces Round 859 (Div. 4)
 
+<h1 align="center">
+Codeforces Round 859 (Div. 4)
+</h1>
 
 
 ![.](i.png)
@@ -41,5 +43,5 @@ YES
 
 
 <h1 align="center">
-[Solution](../solution/README.md)
+[Solution](solution/README.md)
 </h1>
