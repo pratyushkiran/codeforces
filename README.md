@@ -42,6 +42,9 @@ YES
 ![.](i1.png)
 
 
+
 <h1 align="center">
-[Solution](solution/README.md)
+
+[:point_right:	Go to Solution :pinched_fingers:	:point_left:	](https://github.com/pratyushkiran/codeforces/blob/main/solution/README.md#solution--)
+
 </h1>
